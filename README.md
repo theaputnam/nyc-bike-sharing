@@ -2,8 +2,6 @@
 
 The goal of this project was to build a database using MySQL, query the database and gain insights from the data using visualizations and tables.
 
-This project was a collaboration with [Clemens S. Heithecker](https://github.com/clemensheithecker) as part of group work in a Databases & Big Data course at Luiss Guido Carli University.
-
 Riding a bike is a greener alternative to driving a car or taking a taxi and often is a quicker option for getting around traffic-jammed cities. Bike-sharing can be a useful service not only for tourists but also for commuters and locals. In this case study, we used bike-sharing data from Citi Bike in New York City and Newark as well as weather data to analyze riding patterns. For simplicity and to minimize the data size, we used data from October 2021.
 
 ## Implementation
